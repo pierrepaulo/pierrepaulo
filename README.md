@@ -26,4 +26,4 @@ Fique à vontade para explorar meus repositórios e acompanhar meu desenvolvimen
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
-📧 E-mail: pierre.temer.dev@gmail.com
+📧 E-mail: pierresantista@hotmail.com
