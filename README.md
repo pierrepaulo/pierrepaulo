@@ -16,6 +16,10 @@ Especializado em JavaScript, TypeScript, Node.js e SQL, com experiência em Reac
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrepaulo&layout=compact&theme=dark)
+
+---
+
 ## 🧩 Projetos em destaque
 
 🚧 Em breve estarei adicionando meus principais projetos aqui.  
