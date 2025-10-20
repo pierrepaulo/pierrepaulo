@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou o Pierre Paulo Temer
-
-💻 Desenvolvedor Backend
+## **Desenvolvedor Backend** 
 
 ---
 
@@ -26,11 +25,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 <!-- cloud/devops -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 
 <!-- qualidade -->
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
@@ -39,16 +40,16 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrepaulo&layout=compact&theme=dark)
+## 🧩 Projetos em destaque
 
 ---
 
-## 🧩 Projetos em destaque
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrepaulo&layout=compact&theme=dark)
 
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
+
 
 📧 E-mail: pierresantista@hotmail.com
