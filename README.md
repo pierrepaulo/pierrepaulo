@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Pierre Paulo Temer
 
-💻 Desenvolvedor Full Stack apaixonado por construir soluções eficientes e escaláveis.  
-Especializado em JavaScript, TypeScript, Node.js e SQL, com experiência em React e boas práticas de versionamento com Git.
+💻 Desenvolvedor Backend
 
 ---
 
@@ -22,12 +21,9 @@ Especializado em JavaScript, TypeScript, Node.js e SQL, com experiência em Reac
 
 ## 🧩 Projetos em destaque
 
-🚧 Em breve estarei adicionando meus principais projetos aqui.  
-Fique à vontade para explorar meus repositórios e acompanhar meu desenvolvimento!
-
----
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
+
 📧 E-mail: pierresantista@hotmail.com
