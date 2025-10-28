@@ -40,6 +40,8 @@
 ---
 ## 🧩 Projetos em destaque
 
+#### E-commerce completo: API REST em Node/Express (TypeScript) com Prisma/PostgreSQL e integração Stripe para pagamentos, servindo catálogo, carrinho, pedidos e webhooks. Frontend em Next.js (App Router) + React com filtros dinâmicos, login/registro, carrinho em cookies e redirecionamento seguro para checkout.
+### https://github.com/pierrepaulo/futstore
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrepaulo&layout=compact&theme=dark)
