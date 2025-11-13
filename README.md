@@ -52,4 +52,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
 
 
-📧 E-mail: pierresantista@hotmail.com
+📧 E-mail: pierrepaulotf@gmail.com
