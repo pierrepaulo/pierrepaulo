@@ -1,55 +1,111 @@
-# 👋 Olá! Eu sou o Pierre Paulo Temer
-## **Desenvolvedor Backend** 
+
+
+<h1 align="center">Olá, me chamo Pierre Paulo 👋</h1>
+<h2 align="center"><strong>Desenvolvedor Fullstack</strong></h2>
+
+<p align="center">
+  <a href="mailto:pierrepaulotf@gmail.com">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-pierrepaulotf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/pierre-paulo-temer/" target="_blank">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Pierre%20Paulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
 
 ---
 
-## 🧰 Tecnologias que domino
+## 🧠 About me 
 
-<!-- linha 1 -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+Sou **Desenvolvedor Full Stack** com **2 anos de experiência**, atuando em **projetos corporativos** e também como **freelancer**.  
+Tenho foco em construir **aplicações escaláveis**, com **boa arquitetura**, **código limpo** e **decisões técnicas alinhadas ao negócio**.
 
-<!-- linha 2 -->
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-2E3440)
+Também tenho um forte perfil de **resolução de problemas** e **tomada de decisões**, com **boas soft skills** para colaborar com times e alinhar soluções com o contexto do negócio.  
+Sou **muito curioso** e gosto de aprender continuamente, explorando novas abordagens e aprimorando processos para entregar soluções melhores.
 
-<!-- bancos -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-<!-- cloud/devops -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-
-<!-- qualidade -->
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
 ---
-## 🧩 Projetos em destaque
 
-#### E-commerce completo: API REST em Node/Express (TypeScript) com Prisma/PostgreSQL e integração Stripe para pagamentos, servindo catálogo, carrinho, pedidos e webhooks. Frontend em Next.js (App Router) + React com filtros dinâmicos, login/registro, carrinho em cookies e redirecionamento seguro para checkout.
-### https://github.com/pierrepaulo/futstore
+
+## 🛠️ Tech Stack 
+
+<p align="center">
+  <!-- Core -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-111?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img alt="React" src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-111?style=for-the-badge&logo=zod&logoColor=3E67B1" />
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-111?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-111?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-111?style=for-the-badge&logo=jest&logoColor=C21325" />
+</p>
+
+
+
+
+
+
 ---
+## 🧩 Projeto em Destaque
+
+### 🛒 Futstore
+🔗 **Repo/Demo:** https://github.com/pierrepaulo/futstore
+
+E-commerce fullstack com **API REST** e **pagamentos via Stripe**, cobrindo todo o fluxo de compra: **catálogo → carrinho → pedidos → checkout**.
+
+**Principais funcionalidades:**
+- **Catálogo** com filtros dinâmicos
+- **Login/registro** de usuários
+- **Carrinho persistido em cookies**
+- **Checkout seguro** com redirecionamento para Stripe
+- **Pedidos** + processamento via **webhooks** do Stripe
+
+**Stack:**
+- **Back-end:** Node.js, Express, TypeScript, Prisma, PostgreSQL, Stripe (webhooks)  
+- **Front-end:** Next.js (App Router), React, TypeScript
+
+---
+
+## 🚀 Projeto em desenvolvimento
+
+### 🍽️ Restaurante App
+🔗 **Repo/Demo:** https://github.com/pierrepaulo/restaurant-app
+
+Sistema para gestão de pedidos em restaurante, onde o **garçom realiza o pedido pelo celular** e ele chega **em tempo real** no **painel do computador (desktop)**.
+
+**Principais funcionalidades:**
+- Criação e gerenciamento de **pedidos**
+- Cadastro de **categorias** e **produtos**
+- **Painel desktop restrito**: apenas o **gerente** pode acessar (controle de permissões)
+
+**Stack:**
+- **Back-end:** Node.js, Express, TypeScript, PostgreSQL, Prisma  
+- **Front-end (Desktop):** React / Next.js, TypeScript  
+- **Mobile:** React Native
+
+
+---
+
+## Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrepaulo&layout=compact&theme=dark)
 
 
-## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-paulo-temer-88514a189/)
-
-
-📧 E-mail: pierrepaulotf@gmail.com
