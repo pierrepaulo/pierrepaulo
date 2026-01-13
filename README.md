@@ -16,6 +16,12 @@
       src="https://img.shields.io/badge/LinkedIn-Pierre%20Paulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
+   <a href="https://pierrepaulodev.vercel.app/" target="_blank" rel="noreferrer">
+    <img
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-https://pierrepaulodev.vercel.app/-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
 </p>
 
 
