@@ -69,42 +69,25 @@ Sou **muito curioso** e gosto de aprender continuamente, explorando novas aborda
 
 
 ---
-## 🧩 Projeto em Destaque
-
-### 🛒 Futstore
-🔗 **Repo/Demo:** https://github.com/pierrepaulo/futstore
-
-E-commerce fullstack com **API REST** e **pagamentos via Stripe**, cobrindo todo o fluxo de compra: **catálogo → carrinho → pedidos → checkout**.
-
-**Principais funcionalidades:**
-- **Catálogo** com filtros dinâmicos
-- **Login/registro** de usuários
-- **Carrinho persistido em cookies**
-- **Checkout seguro** com redirecionamento para Stripe
-- **Pedidos** + processamento via **webhooks** do Stripe
-
-**Stack:**
-- **Back-end:** Node.js, Express, TypeScript, Prisma, PostgreSQL, Stripe (webhooks)  
-- **Front-end:** Next.js (App Router), React, TypeScript
-
----
 
 ## 🚀 Projeto em desenvolvimento
 
-### 🍽️ Restaurante App
-🔗 **Repo/Demo:** https://github.com/pierrepaulo/restaurant-app
+### 📸🤖 CalorIA: Calculadora de Calorias com IA
 
-Sistema para gestão de pedidos em restaurante, onde o **garçom realiza o pedido pelo celular** e ele chega **em tempo real** no **painel do computador (desktop)**.
+**Entre e teste -> https://caloria-ia.vercel.app/**
 
-**Principais funcionalidades:**
-- Criação e gerenciamento de **pedidos**
-- Cadastro de **categorias** e **produtos**
-- **Painel desktop restrito**: apenas o **gerente** pode acessar (controle de permissões)
+**Calorias IA** é um micro-SaaS mobile-first que simplifica o controle calórico através de inteligência artificial. Basta fotografar sua refeição ou digitar o que comeu para receber instantaneamente a análise nutricional completa, baseada em dados confiáveis da Tabela TACO (Tabela Brasileira de Composição de Alimentos).
 
-**Stack:**
-- **Back-end:** Node.js, Express, TypeScript, PostgreSQL, Prisma  
-- **Front-end (Desktop):** React / Next.js, TypeScript  
-- **Mobile:** React Native
+### ✨ Funcionalidades Principais
+
+- 📸 **Análise por Foto**: Tire uma foto do prato e a IA identifica os alimentos e estima as porções
+- ✍️ **Entrada por Texto**: Digite "arroz 150g" e receba o cálculo nutricional instantâneo
+- 📊 **Dashboard Intuitivo**: Visualize seu consumo diário, semanal e mensal em tempo real
+- 🎯 **Metas Personalizadas**: Configure suas metas calóricas e de macronutrientes
+- 📈 **Histórico Completo**: Acompanhe sua evolução com registros detalhados
+- 🔐 **Autenticação Segura**: Login com email/senha ou Google OAuth
+- 🇧🇷 **Dados Brasileiros**: Cálculos baseados na Tabela TACO oficial com +300 alimentos locais
+- 📱 **Mobile First**: Interface otimizada para celular com design responsivo
 
 
 ---
