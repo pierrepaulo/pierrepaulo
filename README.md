@@ -64,32 +64,6 @@ Sou **muito curioso** e gosto de aprender continuamente, explorando novas aborda
 </p>
 
 
-
-
-
-
----
-
-## 🚀 Projeto em desenvolvimento
-
-### 📸🤖 CalorIA: Calculadora de Calorias com IA
-
-**Entre e teste -> https://caloria-ia.vercel.app/**
-
-**Calorias IA** é um micro-SaaS mobile-first que simplifica o controle calórico através de inteligência artificial. Basta fotografar sua refeição ou digitar o que comeu para receber instantaneamente a análise nutricional completa, baseada em dados confiáveis da Tabela TACO (Tabela Brasileira de Composição de Alimentos).
-
-### ✨ Funcionalidades Principais
-
-- 📸 **Análise por Foto**: Tire uma foto do prato e a IA identifica os alimentos e estima as porções
-- ✍️ **Entrada por Texto**: Digite "arroz 150g" e receba o cálculo nutricional instantâneo
-- 📊 **Dashboard Intuitivo**: Visualize seu consumo diário, semanal e mensal em tempo real
-- 🎯 **Metas Personalizadas**: Configure suas metas calóricas e de macronutrientes
-- 📈 **Histórico Completo**: Acompanhe sua evolução com registros detalhados
-- 🔐 **Autenticação Segura**: Login com email/senha ou Google OAuth
-- 🇧🇷 **Dados Brasileiros**: Cálculos baseados na Tabela TACO oficial com +300 alimentos locais
-- 📱 **Mobile First**: Interface otimizada para celular com design responsivo
-
-
 ---
 
 ## Top Langs
