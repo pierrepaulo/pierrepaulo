@@ -28,9 +28,9 @@
 ---
 
 ## 🧠 About me 
-
-Sou **Desenvolvedor Full Stack** com **2 anos de experiência**, atuando em **projetos corporativos** e também como **freelancer**.  
-Tenho foco em construir **aplicações escaláveis**, com **boa arquitetura**, **código limpo** e **decisões técnicas alinhadas ao negócio**.
+ 
+Desenvolvedor Full Stack com **2+ anos de experiência** em TypeScript, Node.js, React e Next.js. Atuei na 
+migração de um ERP desktop para web (50+ lojas, 300 usuários)
 
 Também tenho um forte perfil de **resolução de problemas** e **tomada de decisões**, com **boas soft skills** para colaborar com times e alinhar soluções com o contexto do negócio.  
 Sou **muito curioso** e gosto de aprender continuamente, explorando novas abordagens e aprimorando processos para entregar soluções melhores.
